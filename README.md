@@ -16,9 +16,8 @@ I have created all the scripts seperatly as of now and these scripts can be comb
 **Installation Steps**
 
 
-1.On Terminal clone the Repository "git clone git@github.com:JNipun/Facebook-Ads-API.git"<br />
-2.Go to downloaded folder<br />
-3.pip install -r requirements.txt<br />
+1.On Terminal clone the Repository "git clone git@github.com:JNipun/Facebook-Ads-Api.git"<br />
+2.pip install -r requirements.txt<br />
 
 
 
