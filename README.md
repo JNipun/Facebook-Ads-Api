@@ -1,5 +1,5 @@
 # Facebbok-Ads-Api
-**Requirements For Facebbok-Ads-API Code**
+**Requirements For Facebook-Ads-API Code**
 
 
 1.Python 3.7<br />
