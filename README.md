@@ -6,7 +6,7 @@
 
 **About Code**
 
-To access Facebbok Ads API A developer needs to create profile on Facebbok developer portalhttps://developers.facebook.com/ .
+To access Facebbok Ads API A developer needs to create profile on Facebbok developer portal https://developers.facebook.com/ .
 After that create an app and generate app_id and app_secret. Make sure you have access to Required Facebook Profile ID on which data needs to be pulled. Using these params generate a access_token (works for 60 days) or you can generate Long Lived access_token everytime which is valid fr 1 hr. Steps to generate Long Lived access token can be found on https://developers.facebook.com/docs/facebook-login/access-tokens/refreshing .
 I have created ~5-6 scripts here. In Facebook Ads Campaign is parent so main script is campaign.py from which all the campaign id can be fetched an dusing these id's relevant ads, ads_insights data can be extracted.
 I have created all the scripts seperatly as of now and these scripts can be combined into one if anyone wants.<br />
