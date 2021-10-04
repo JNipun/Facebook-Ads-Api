@@ -1,7 +1,7 @@
 {
   "app_id" : "",
   "app_secret" : "",
-  "ad_account_id" : "",
+  "ad_account_id" : ["act_","act_","act_"],
   "access_token" : ""
 
 }
